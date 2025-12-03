@@ -9,7 +9,7 @@ Your phone cannot connect to the local server due to network configuration (like
 1. The Food Slot Machine is already in a git repository
 2. Push to GitHub if you haven't already
 3. Enable GitHub Pages in repository settings
-4. Access from anywhere via: `https://yourusername.github.io/feastfind3d/FoodSlotMachine/`
+4. Access from anywhere via: `https://yourusername.github.io/FoodSlotMachine/`
 
 **Steps:**
 ```bash
